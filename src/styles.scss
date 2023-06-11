@@ -84,3 +84,6 @@ body {
   background-color: mat.get-color-from-palette($dark-accent, default);
   color: mat.get-contrast-color-from-palette($dark-accent, default);
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

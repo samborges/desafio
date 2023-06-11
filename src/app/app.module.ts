@@ -25,6 +25,7 @@ import { ShopComponent } from './shop/shop.component';
 
 // TODO: #9. Add the power of @angular/cdk/a11y
 import { A11yModule } from '@angular/cdk/a11y';
+import { SimuladorComponent } from './simulador/simulador.component';
 
 @NgModule({
   declarations: [
@@ -35,6 +36,7 @@ import { A11yModule } from '@angular/cdk/a11y';
     DumplingComponent,
     ColorPickerComponent,
     ColorPickerDialogComponent,
+    SimuladorComponent,
   ],
   imports: [
     BrowserModule,
