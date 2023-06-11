@@ -40,7 +40,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/angular-a11y'),
+      dir: require('path').join(__dirname, './coverage/simulador-de-credito'),
       subdir: '.',
       reporters: [
         { type: 'html' },

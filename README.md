@@ -1,6 +1,6 @@
 # Build more accessible Angular apps : Dumpling Shop demo
 
-Demo for the [Build more accessible Angular apps](https://codelabs.developers.google.com/angular-a11y) codelab.
+Demo for the [Build more accessible Angular apps](https://codelabs.developers.google.com/simulador-de-credito) codelab.
 
 
 ## Get set up
